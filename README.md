@@ -15,4 +15,6 @@ With this tool,you can generate the following command:
 
 You can generate all commands by click the `Submit` button and lear all commands by click the `clear` button.
 
+![图片](./image/HBaseShellGUIToolV1.0.jpg)
+
 
